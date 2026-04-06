@@ -1,0 +1,43 @@
+*{
+    background-color:lightcyan;
+}
+.class{
+    color:brown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.name{
+    text-align: center;
+    color: #333;
+}
+
+h2{
+    color:brown;
+}
+
+#contact{
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    text-decoration: underline;
+    color:brown
+
+}
+
+button{
+    text-align: center;
+}
+#button{
+    text-align: center;
+}
+
+#skill{
+    font-weight: lighter;
+}
+
+.div1{
+    text-align: center;
+}
