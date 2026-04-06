@@ -1,11 +1,11 @@
 ## 🌐 Personal Portfolio Website
 
 ## 👩‍🎓 Details
-Name: PRIYANSHU KUMAR SINGH
-Roll Number: 2401010174
-Course: B.Tech CSE CORE
-Course Name: Web Programming with Python and Javascript Lab
-Course Code: SEC035
+-Name: PRIYANSHU KUMAR SINGH
+-Roll Number: 2401010174
+-Course: B.Tech CSE CORE
+-Course Name: Web Programming with Python and Javascript Lab
+-Course Code: SEC035
 ---
 ## 📌 Project Overview
 - This is a responsive personal portfolio website built using HTML, CSS, and JavaScript.
@@ -26,9 +26,9 @@ CSS3 (Flexbox, Media Queries, Box Model)
 JavaScript (DOM Manipulation, Event Handling)
 ---
 ##⚙️ How to Run the Project
-Download or clone the repository: git clone (https://github.com/priyanshu-krs/-Personal-Portfolio/new/main?filename=README.md)
-Open the project folder: cd personal_portfolio
-Open the index.html file in any web browser:
-Double-click index.html
+1.Download or clone the repository: git clone (https://github.com/priyanshu-krs/-Personal-Portfolio/new/main?filename=README.md)
+2.Open the project folder: cd personal_portfolio
+3.Open the index.html file in any web browser:
+-Double-click index.html
 
 
