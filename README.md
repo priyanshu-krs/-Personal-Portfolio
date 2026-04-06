@@ -13,9 +13,9 @@ The website showcases my profile, skills, projects, and contact information in a
 The project demonstrates semantic HTML structure, modern CSS styling, and basic JavaScript interactivity
 
 🚀 Features
--Semantic HTML5 structure
--Responsive and modern UI design
--Smooth navigation
+Semantic HTML5 structure
+Responsive and modern UI design
+Smooth navigation
 Interactive elements using JavaScript
 Functional front-end contact form with validation
 Clean and well-organized code structure
@@ -30,3 +30,5 @@ Download or clone the repository: git clone (https://github.com/priyanshu-krs/-P
 Open the project folder: cd personal_portfolio
 Open the index.html file in any web browser:
 Double-click index.html
+
+
