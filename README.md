@@ -37,7 +37,7 @@
 ### 1. Download or clone the repository
 
 ```bash
-(https://github.com/priyanshu-krs/-Personal-Portfolio/tree/main)
+
 
 
 
